@@ -24,7 +24,6 @@ depends: [
   "ocaml" {>= "4.05.0"}
   "cstruct" {>= "1.0.1"}
   "lwt" {>= "2.4.3"}
-  "lwt-dllist"
   "ocaml-freestanding" {>= "0.4.5"}
   "metrics"
   "mirage-runtime" {>= "3.7.0"}
